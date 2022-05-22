@@ -44,6 +44,7 @@ a {
 #container > header h1 {
     display: inline-block;
     font-size: 5em;
+    line-height: 1.3em;
 }
 
 #container > header .virt-container {
@@ -58,6 +59,10 @@ a {
     font-size: 2em;
     vertical-align: bottom;
     font-family: "游明朝体", "Yu Mincho", YuMincho, "Cambria", serif;
+}
+
+#container > header aside small {
+    font-size: 0.6em;
 }
 
 #attribution {
